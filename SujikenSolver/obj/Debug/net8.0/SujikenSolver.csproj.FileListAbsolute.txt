@@ -1,0 +1,14 @@
+C:\source\sujiken-solver\SujikenSolver\bin\Debug\net8.0\SujikenSolver.exe
+C:\source\sujiken-solver\SujikenSolver\bin\Debug\net8.0\SujikenSolver.deps.json
+C:\source\sujiken-solver\SujikenSolver\bin\Debug\net8.0\SujikenSolver.runtimeconfig.json
+C:\source\sujiken-solver\SujikenSolver\bin\Debug\net8.0\SujikenSolver.dll
+C:\source\sujiken-solver\SujikenSolver\bin\Debug\net8.0\SujikenSolver.pdb
+C:\source\sujiken-solver\SujikenSolver\obj\Debug\net8.0\SujikenSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\sujiken-solver\SujikenSolver\obj\Debug\net8.0\SujikenSolver.AssemblyInfoInputs.cache
+C:\source\sujiken-solver\SujikenSolver\obj\Debug\net8.0\SujikenSolver.AssemblyInfo.cs
+C:\source\sujiken-solver\SujikenSolver\obj\Debug\net8.0\SujikenSolver.csproj.CoreCompileInputs.cache
+C:\source\sujiken-solver\SujikenSolver\obj\Debug\net8.0\SujikenSolver.dll
+C:\source\sujiken-solver\SujikenSolver\obj\Debug\net8.0\refint\SujikenSolver.dll
+C:\source\sujiken-solver\SujikenSolver\obj\Debug\net8.0\SujikenSolver.pdb
+C:\source\sujiken-solver\SujikenSolver\obj\Debug\net8.0\SujikenSolver.genruntimeconfig.cache
+C:\source\sujiken-solver\SujikenSolver\obj\Debug\net8.0\ref\SujikenSolver.dll
